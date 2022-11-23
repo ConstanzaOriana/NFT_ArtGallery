@@ -1,0 +1,25 @@
+{
+    "name": "Nun moto",
+    "description": "En la imagen, las alas conectadas a un monociclo que vuela trasportando una torre cilíndrica recuerdan las de un dragón o ser fantástico. Este elemento y la alusión a paisajes en otros motivos plásticos de la pieza, como lo que detrás y al fondo Remedios Varo plasmó a manera de diálogo entre la naturaleza y lo construido por humanos.",
+    "image": "https://bafybeidezfi3cobrmouhlpazit37yhqlzvlt5krptpnzyp63gyquy7f3m4/images/moto.jpg",
+    "id": "5",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 7
+        },
+        {
+            "trait_type": "Author",
+            "value": "Remedios Varo"
+        },
+        {
+            "trait_type": "Year",
+            "value": 1945
+        },
+        {
+            "trait_type": "Technique",
+            "value": "Pintura sobre madera dorada a la hoja con incrustaciones de nácar."
+        }
+
+    ]
+}

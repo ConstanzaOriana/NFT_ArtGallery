@@ -1,0 +1,25 @@
+{
+    "name": "Rompecabezas",
+    "description": "30 cuadrados de un metro de lado realizados con pintura acrílica sobre tela, que permiten ser acoplados entre ellos formando una imagen continua total.",
+    "image": "https://bafybeidezfi3cobrmouhlpazit37yhqlzvlt5krptpnzyp63gyquy7f3m4/images/rompecabezas.jpg",
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10
+        },
+        {
+            "trait_type": "Author",
+            "value": "Jorge De La Vega"
+        },
+        {
+            "trait_type": "Year",
+            "value": 1969
+        },
+        {
+            "trait_type": "Technique",
+            "value": "Acrilico sobre tela"
+        }
+
+    ]
+}

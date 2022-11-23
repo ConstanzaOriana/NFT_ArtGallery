@@ -1,0 +1,25 @@
+{
+    "name": "La gran tentacion",
+    "description": " Este collage de múltiples materiales extrapictóricos y pintura, en una estética que antecede al kitsch, al incorporar lo vulgar de lo cotidiano, muestra a una prostituta vieja, de pie a la derecha del cuadro (Ramona), rodeada de hombres y tal vez un cafisho con galera en el centro-izquierda de la obra.",
+    "image": "https://bafybeidezfi3cobrmouhlpazit37yhqlzvlt5krptpnzyp63gyquy7f3m4/images/tentacion.jpg",
+    "id": "4",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 8
+        },
+        {
+            "trait_type": "Author",
+            "value": "Antonio Berni"
+        },
+        {
+            "trait_type": "Year",
+            "value": 1962
+        },
+        {
+            "trait_type": "Technique",
+            "value": "Óleo, madera, arpillera, lona, papel, cartón, vidrio, cuero y metales."
+        }
+
+    ]
+}

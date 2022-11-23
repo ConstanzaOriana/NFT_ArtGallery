@@ -1,0 +1,25 @@
+{
+    "name": "Autorretrato con chango y loro",
+    "description": "El autorretrato de Kahlo de 1942 está ejecutado con pinceladas rigurosamente controladas –excepto en el pelaje y las plumas–, típicas de las pinturas que completó en la cumbre de su carrera. La presentación directa y frontal del personaje sigue un modelo en parte inspirado por los retratos populares del siglo XIX, un tipo que Kahlo y Rivera coleccionaban y exhibían en su casa familiar de Coyoacán, que ambos artistas compartían en ese entonces.",
+    "image": "https://bafybeidezfi3cobrmouhlpazit37yhqlzvlt5krptpnzyp63gyquy7f3m4/images/chango.jpg",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 20
+        },
+        {
+            "trait_type": "Author",
+            "value": "Frida Khalo"
+        },
+        {
+            "trait_type": "Year",
+            "value": 1942
+        },
+        {
+            "trait_type": "Technique",
+            "value": "Óleo sobre masonite"
+        }
+
+    ]
+}

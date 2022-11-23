@@ -1,0 +1,25 @@
+{
+    "name": "Quiosco de Canaletas",
+    "description": "En esta pieza pictórica, una multiplicidad de fragmentos escénicos están contenidos en formas angulosas que se interpenetran. El uso de estas formas quebradizas que definen la dinámica del cuadro estaba también presente en las escenas de café pintadas en París.",
+    "image": "https://bafybeidezfi3cobrmouhlpazit37yhqlzvlt5krptpnzyp63gyquy7f3m4/images/canaletas.jpg",
+    "id": "2",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 12
+        },
+        {
+            "trait_type": "Author",
+            "value": "Rafael Barradas"
+        },
+        {
+            "trait_type": "Year",
+            "value": 1918
+        },
+        {
+            "trait_type": "Technique",
+            "value": "Acuarela, gouache y grafito sobre papel"
+        }
+
+    ]
+}
